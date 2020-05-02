@@ -1,0 +1,196 @@
+date,county,state,fips,cases,deaths,avg temp
+2020-01-21,Snohomish,Washington,53061,1,0,35
+2020-01-22,Snohomish,Washington,53061,1,0,35
+2020-01-23,Snohomish,Washington,53061,1,0,40
+2020-01-24,Snohomish,Washington,53061,1,0,37
+2020-01-25,Snohomish,Washington,53061,1,0,36
+2020-01-26,Los Angeles,California,06037,1,0,58
+2020-01-26,Snohomish,Washington,53061,1,0,36
+2020-01-27,Los Angeles,California,06037,1,0,58
+2020-01-27,Snohomish,Washington,53061,1,0,35
+2020-01-28,Los Angeles,California,06037,1,0,64
+2020-01-28,Snohomish,Washington,53061,1,0,36
+2020-01-29,Los Angeles,California,06037,1,0,67
+2020-01-29,Snohomish,Washington,53061,1,0,36
+2020-01-30,Los Angeles,California,06037,1,0,66
+2020-01-30,Snohomish,Washington,53061,1,0,36
+2020-01-31,Los Angeles,California,06037,1,0,63
+2020-01-31,Snohomish,Washington,53061,1,0,42
+2020-02-01,Los Angeles,California,06037,1,0,67
+2020-02-01,Snohomish,Washington,53061,1,0,34
+2020-02-02,Los Angeles,California,06037,1,0,62
+2020-02-02,Snohomish,Washington,53061,1,0,26
+2020-02-03,Los Angeles,California,06037,1,0,57
+2020-02-03,Snohomish,Washington,53061,1,0,26
+2020-02-04,Los Angeles,California,06037,1,0,53
+2020-02-04,Snohomish,Washington,53061,1,0,27
+2020-02-05,Los Angeles,California,06037,1,0,53
+2020-02-05,Snohomish,Washington,53061,1,0,35
+2020-02-06,Los Angeles,California,06037,1,0,55
+2020-02-06,Snohomish,Washington,53061,1,0,37
+2020-02-07,Los Angeles,California,06037,1,0,56
+2020-02-07,Snohomish,Washington,53061,1,0,37
+2020-02-08,Los Angeles,California,06037,1,0,57
+2020-02-08,Snohomish,Washington,53061,1,0,32
+2020-02-09,Los Angeles,California,06037,1,0,57
+2020-02-09,Snohomish,Washington,53061,1,0,30
+2020-02-10,Los Angeles,California,06037,1,0,61
+2020-02-10,Snohomish,Washington,53061,1,0,32
+2020-02-11,Los Angeles,California,06037,1,0,65
+2020-02-11,Snohomish,Washington,53061,1,0,33
+2020-02-12,Los Angeles,California,06037,1,0,59
+2020-02-12,Snohomish,Washington,53061,1,0,34
+2020-02-13,Los Angeles,California,06037,1,0,58
+2020-02-13,Snohomish,Washington,53061,1,0,32
+2020-02-14,Los Angeles,California,06037,1,0,58
+2020-02-14,Snohomish,Washington,53061,1,0,32
+2020-02-15,Los Angeles,California,06037,1,0,57
+2020-02-15,Snohomish,Washington,53061,1,0,33
+2020-02-16,Los Angeles,California,06037,1,0,58
+2020-02-16,Snohomish,Washington,53061,1,0,31
+2020-02-17,Los Angeles,California,06037,1,0,58
+2020-02-17,Snohomish,Washington,53061,1,0,30
+2020-02-18,Los Angeles,California,06037,1,0,60
+2020-02-18,Snohomish,Washington,53061,1,0,28
+2020-02-19,Los Angeles,California,06037,1,0,62
+2020-02-19,Snohomish,Washington,53061,1,0,31
+2020-02-20,Los Angeles,California,06037,1,0,61
+2020-02-20,Snohomish,Washington,53061,1,0,32
+2020-02-21,Los Angeles,California,06037,1,0,64
+2020-02-21,Snohomish,Washington,53061,1,0,35
+2020-02-22,Los Angeles,California,06037,1,0,62
+2020-02-22,Snohomish,Washington,53061,1,0,33
+2020-02-23,Los Angeles,California,06037,1,0,60
+2020-02-23,Snohomish,Washington,53061,1,0,33
+2020-02-24,Los Angeles,California,06037,1,0,59
+2020-02-24,Snohomish,Washington,53061,1,0,30
+2020-02-25,Los Angeles,California,06037,1,0,62
+2020-02-25,Snohomish,Washington,53061,1,0,33
+2020-02-26,Los Angeles,California,06037,1,0,68
+2020-02-26,Snohomish,Washington,53061,1,0,35
+2020-02-27,Los Angeles,California,06037,1,0,70
+2020-02-27,Snohomish,Washington,53061,1,0,37
+2020-02-28,Los Angeles,California,06037,1,0,73
+2020-02-28,Snohomish,Washington,53061,2,0,36
+2020-02-29,Los Angeles,California,06037,1,0,65
+2020-02-29,Snohomish,Washington,53061,2,0,31
+2020-03-01,Los Angeles,California,06037,1,0,60
+2020-03-01,Snohomish,Washington,53061,2,0,30
+2020-03-02,Los Angeles,California,06037,1,0,58
+2020-03-02,Snohomish,Washington,53061,3,0,33
+2020-03-03,Los Angeles,California,06037,1,0,69
+2020-03-03,Snohomish,Washington,53061,5,0,36
+2020-03-04,Los Angeles,California,06037,7,0,62
+2020-03-04,Snohomish,Washington,53061,8,0,33
+2020-03-05,Los Angeles,California,06037,11,0,60
+2020-03-05,Snohomish,Washington,53061,17,0,36
+2020-03-06,Los Angeles,California,06037,13,0,60
+2020-03-06,Snohomish,Washington,53061,18,0,34
+2020-03-07,Los Angeles,California,06037,14,0,59
+2020-03-07,Snohomish,Washington,53061,26,0,31
+2020-03-08,Los Angeles,California,06037,14,0,58
+2020-03-08,Snohomish,Washington,53061,36,0,30
+2020-03-09,Los Angeles,California,06037,19,0,60
+2020-03-09,Snohomish,Washington,53061,45,0,29
+2020-03-10,Los Angeles,California,06037,20,0,63
+2020-03-10,Snohomish,Washington,53061,61,0,33
+2020-03-11,Los Angeles,California,06037,28,1,64
+2020-03-11,Snohomish,Washington,53061,69,1,33
+2020-03-12,Los Angeles,California,06037,32,1,60
+2020-03-12,Snohomish,Washington,53061,107,3,31
+2020-03-13,Los Angeles,California,06037,40,1,57
+2020-03-13,Snohomish,Washington,53061,132,3,30
+2020-03-14,Los Angeles,California,06037,53,1,58
+2020-03-14,Snohomish,Washington,53061,154,3,27
+2020-03-15,Los Angeles,California,06037,69,1,59
+2020-03-15,Snohomish,Washington,53061,175,3,29
+2020-03-16,Los Angeles,California,06037,94,1,59
+2020-03-16,Snohomish,Washington,53061,199,3,39
+2020-03-17,Los Angeles,California,06037,144,1,54
+2020-03-17,Snohomish,Washington,53061,265,4,40
+2020-03-18,Los Angeles,California,06037,190,1,55
+2020-03-18,Snohomish,Washington,53061,309,5,37
+2020-03-19,Los Angeles,California,06037,231,2,58
+2020-03-19,Snohomish,Washington,53061,347,6,40
+2020-03-20,Los Angeles,California,06037,292,2,57
+2020-03-20,Snohomish,Washington,53061,384,7,41
+2020-03-21,Los Angeles,California,06037,351,4,61
+2020-03-21,Snohomish,Washington,53061,446,9,38
+2020-03-22,Los Angeles,California,06037,421,5,60
+2020-03-22,Snohomish,Washington,53061,480,10,38
+2020-03-23,Los Angeles,California,06037,536,7,60
+2020-03-23,Snohomish,Washington,53061,518,10,33
+2020-03-24,Los Angeles,California,06037,662,11,59
+2020-03-24,Snohomish,Washington,53061,613,15,33
+2020-03-25,Los Angeles,California,06037,799,13,59
+2020-03-25,Snohomish,Washington,53061,633,15,32
+2020-03-26,Los Angeles,California,06037,1216,21,57
+2020-03-26,Snohomish,Washington,53061,778,18,32
+2020-03-27,Los Angeles,California,06037,1465,27,57
+2020-03-27,Snohomish,Washington,53061,913,23,34
+2020-03-28,Los Angeles,California,06037,1804,33,58
+2020-03-28,Snohomish,Washington,53061,912,23,36
+2020-03-29,Los Angeles,California,06037,2136,37,59
+2020-03-29,Snohomish,Washington,53061,1067,23,35
+2020-03-30,Los Angeles,California,06037,2474,44,60
+2020-03-30,Snohomish,Washington,53061,1126,30,33
+2020-03-31,Los Angeles,California,06037,3011,54,62
+2020-03-31,Snohomish,Washington,53061,1228,32,32
+2020-04-01,Los Angeles,California,06037,3518,65,63
+2020-04-01,Snohomish,Washington,53061,1304,39,31
+2020-04-02,Los Angeles,California,06037,4045,78,63
+2020-04-02,Snohomish,Washington,53061,1375,39,31
+2020-04-03,Los Angeles,California,06037,4566,89,62
+2020-04-03,Snohomish,Washington,53061,1449,41,29
+2020-04-04,Los Angeles,California,06037,5277,117,60
+2020-04-04,Snohomish,Washington,53061,1502,44,31
+2020-04-05,Los Angeles,California,06037,5940,132,60
+2020-04-05,Snohomish,Washington,53061,1558,48,35
+2020-04-06,Los Angeles,California,06037,6360,147,59
+2020-04-06,Snohomish,Washington,53061,1602,57,37
+2020-04-07,Los Angeles,California,06037,6910,169,59
+2020-04-07,Snohomish,Washington,53061,1658,60,37
+2020-04-08,Los Angeles,California,06037,7530,198,55
+2020-04-08,Snohomish,Washington,53061,1694,61,43
+2020-04-09,Los Angeles,California,06037,7955,223,55
+2020-04-09,Snohomish,Washington,53061,1701,63,46
+2020-04-10,Los Angeles,California,06037,8430,241,55
+2020-04-10,Snohomish,Washington,53061,1801,66,44
+2020-04-11,Los Angeles,California,06037,8873,265,60
+2020-04-11,Snohomish,Washington,53061,1834,67,37
+2020-04-12,Los Angeles,California,06037,9192,296,60
+2020-04-12,Snohomish,Washington,53061,1866,69,38
+2020-04-13,Los Angeles,California,06037,9420,320,
+2020-04-13,Snohomish,Washington,53061,1907,73,40
+2020-04-14,Los Angeles,California,06037,10047,360,60
+2020-04-14,Snohomish,Washington,53061,1949,77,43
+2020-04-15,Los Angeles,California,06037,10496,402,65
+2020-04-15,Snohomish,Washington,53061,1987,80,43
+2020-04-16,Los Angeles,California,06037,10854,455,64
+2020-04-16,Snohomish,Washington,53061,2031,85,44
+2020-04-17,Los Angeles,California,06037,11391,495,61
+2020-04-17,Snohomish,Washington,53061,2055,87,45
+2020-04-18,Los Angeles,California,06037,12021,576,62
+2020-04-18,Snohomish,Washington,53061,2092,92,40
+2020-04-19,Los Angeles,California,06037,12341,600,62
+2020-04-19,Snohomish,Washington,53061,2142,92,40
+2020-04-20,Los Angeles,California,06037,13816,617,62
+2020-04-20,Snohomish,Washington,53061,2162,96,42
+2020-04-21,Los Angeles,California,06037,15140,663,62
+2020-04-21,Snohomish,Washington,53061,2162,98,38
+2020-04-22,Los Angeles,California,06037,16435,729,65
+2020-04-22,Snohomish,Washington,53061,2208,98,40
+2020-04-23,Los Angeles,California,06037,17508,797,72
+2020-04-23,Snohomish,Washington,53061,2239,99,40
+2020-04-24,Los Angeles,California,06037,18545,850,71
+2020-04-24,Snohomish,Washington,53061,2267,102,41
+2020-04-25,Los Angeles,California,06037,19107,895,73
+2020-04-25,Snohomish,Washington,53061,2297,103,40
+2020-04-26,Los Angeles,California,06037,19528,913,67
+2020-04-26,Snohomish,Washington,53061,2311,104,41
+2020-04-27,Los Angeles,California,06037,20417,942,66
+2020-04-27,Snohomish,Washington,53061,2355,106,40
+2020-04-28,Los Angeles,California,06037,20976,1000,68
+2020-04-28,Snohomish,Washington,53061,2370,106,42
+2020-04-29,Los Angeles,California,06037,22485,1056,64
+2020-04-29,Snohomish,Washington,53061,2416,106,47
