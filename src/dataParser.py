@@ -35,6 +35,10 @@ for row in NYReader:
 	if row[1] == "LAGUARDIA AIRPORT, NY US":
 		NYCTempsWriter.writerow(["New York City", row[2], row[17]])
 
+CaliTempsCSV.close()
+WashingtonTempsCSV.close()
+newYorkTempsCSV.close()
+
 LATempsCSV.close()
 snohomishCSV.close()
 NYCCSV.close()
@@ -64,3 +68,8 @@ for row1 in coronaReader:
 			if row1[0] == row2[1]:
 				dataWriter.writerow([row1[0], row1[1], row1[2], row1[3], row1[4], row1[5], row2[2]])
 				break
+
+countiesCoronaCSV.close()
+LATempsCSV.close()
+snohomishCSV.close()
+NYCCSV.close()
