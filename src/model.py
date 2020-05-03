@@ -65,16 +65,11 @@ for range(popDensitySize)
    
 #Input X1 - Avg Temperature 2 weeks before ; Input X2 - Population density
 
-thetas = []
-
-m = popDensitySize
-
-
 
 //Neural Network model for linear regression
 
 model = Sequential()
-model.add(Dense(3, input_dim = 3, activation = 'linear')
-model.add(Dense(3, activation = 'linear')
-model.add(Dense(1, activation = 'sigmoid')
+model.add(Dense(3, input_dim = 3, activation = 'linear'))
+model.add(Dense(3, activation = 'linear'))
+model.add(Dense(1, activation = 'linear'))
 
