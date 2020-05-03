@@ -47,8 +47,27 @@ LATemp.remove(None)
 NYCCases.remove(None)
 NYCTemp.remove(None)
 
+popDensitySize = len(LACases) - 14
+
+popDensityLA = []
+popDensitySnohomish = []
+popDensityNYC = []
+
+for range(popDensitySize) 
+    popDensityLA.append(7554)
+    popDensityNYC.append(26403)
+    popDensitySnohomish.append(2740)
+
 
 # X-Axis 
-X
+   
+#Input X1 - Avg Temperature 2 weeks before ; Input X2 - Population density
 
-# Y-Axis
+thetas = []
+
+m = popDensitySize
+
+hypothesisFun = 
+
+costFunction = 1/(2*m)
+
