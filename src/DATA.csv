@@ -203,7 +203,7 @@ date,county,state,fips,cases,deaths,avg temp
 2020-04-12,Los Angeles,California,06037,9192,296,60
 2020-04-12,New York City,New York,,103208,6717,53
 2020-04-12,Snohomish,Washington,53061,1866,69,38
-2020-04-13,Los Angeles,California,06037,9420,320,
+2020-04-13,Los Angeles,California,06037,9420,320,60
 2020-04-13,New York City,New York,,106764,7154,57
 2020-04-13,Snohomish,Washington,53061,1907,73,40
 2020-04-14,Los Angeles,California,06037,10047,360,60
