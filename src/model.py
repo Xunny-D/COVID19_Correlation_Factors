@@ -1,5 +1,7 @@
 import tensorflow as tf
 from tensorflow import keras
+from keras.models impoty Sequential
+from keras.layers import Dense
 import pandas as pd
 import numpy as np
 import csv
@@ -67,7 +69,12 @@ thetas = []
 
 m = popDensitySize
 
-hypothesisFun = 
 
-costFunction = 1/(2*m)
+
+//Neural Network model for linear regression
+
+model = Sequential()
+model.add(Dense(3, input_dim = 3, activation = 'linear')
+model.add(Dense(3, activation = 'linear')
+model.add(Dense(1, activation = 'sigmoid')
 
