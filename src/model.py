@@ -4,6 +4,7 @@ from keras.models impoty Sequential
 from keras.layers import Dense
 import pandas as pd
 import numpy as np
+from numpy import array
 import csv
 
 
@@ -16,10 +17,18 @@ popDensityLA = []
 popDensitySnohomish = []
 popDensityNYC = []
 
-for range(popDensitySize) 
+for i in range(popDensitySize) 
     popDensityLA.append(7554)
     popDensityNYC.append(26403)
     popDensitySnohomish.append(2740)
+    
+    
+dataset = loadtext('DATA.csv');    
+DiffsTemp =     
+
+X = [[DiffsTemp], 
+     [
+    
 
 #Y - Axis
 
@@ -34,6 +43,6 @@ model.add(Dense(1, activation = 'linear'))
 
 model.compile(loss = 'mean squared error', optimizer = 'adam', metrics = 'accuracy')
 
-model.fit(
+model.fit(X, Y
 
 
