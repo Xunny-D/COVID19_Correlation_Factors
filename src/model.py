@@ -29,7 +29,7 @@ for row in DATAReader:
 
     if startCollecting == 1:
         if row[0] not in dates:
-        	dates.append(row[0])
+            dates.append(row[0])
 
         if row[1] == "Snohomish":
             snohomishCases.append(row[4])
@@ -66,10 +66,10 @@ diffNCases = [None] * (len(dates) - 1)
 diffNTemps = [None] * (len(dates) - 1)
 
 def diff(X, Y, A, B):
-	for i in range(len(X)):
-		X[i] = A[i + 1] - A[i]
-		Y[i] = B[i + 1] - B[i]
-	return (X, Y)
+    for i in range(len(X)):
+        X[i] = A[i + 1] - A[i]
+        Y[i] = B[i + 1] - B[i]
+    return (X, Y)
 
 #calculate temperature differences and new cases per day
 (diffSCases, diffSTemps) = diff(diffSCases, diffSTemps, snohomishCases, snohomishTemp)
@@ -79,9 +79,9 @@ def diff(X, Y, A, B):
 outputFile = open('outputFile.csv', 'w', newline='')
 outputWriter = csv.writer(outputFile)
 for i in range(len(diffSCases)):
-	outputWriter.writerow(["Snohomish", diffSCases[i], diffSTemps[i]])
-	outputWriter.writerow(["Los Angeles", diffLCases[i], diffLTemps[i]])
-	outputWriter.writerow(["New York City", diffNCases[i], diffNTemps[i]])
+    outputWriter.writerow(["Snohomish", diffSCases[i], diffSTemps[i]])
+    outputWriter.writerow(["Los Angeles", diffLCases[i], diffLTemps[i]])
+    outputWriter.writerow(["New York City", diffNCases[i], diffNTemps[i]])
 
 # X-Axis 
 #Input X1 - Avg Temperature 2 weeks before ; Input X2 - Population density 
@@ -120,11 +120,11 @@ popDense.remove(None)
 #Neural Network model for linear regression
 
 
-model = tf.keras.Sequential([	tf.keras.layers.Flatten(),
-								tf.keras.layers.Dense(3, input_dim = 2, activation = 'linear'),
-								tf.keras.layers.Dense(3, activation = 'linear'),
-								tf.keras.layers.Dense(1, activation = 'linear')
-							])
+model = tf.keras.Sequential([   tf.keras.layers.Flatten(),
+                                tf.keras.layers.Dense(3, input_dim = 2, activation = 'linear'),
+                                tf.keras.layers.Dense(3, activation = 'linear'),
+                                tf.keras.layers.Dense(1, activation = 'linear')
+                            ])
 
 model.compile(loss = 'mean_squared_error', optimizer = 'adam')
 
